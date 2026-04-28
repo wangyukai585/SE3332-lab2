@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Dataset (too large to commit)
+hotpotqa_longbench.json
+
+# Assignment PDF (course material)
+lab2.pdf
+
+# LaTeX source (report PDF is enough)
+report.tex
+
+# macOS
+.DS_Store
