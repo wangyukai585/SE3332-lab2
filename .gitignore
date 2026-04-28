@@ -23,5 +23,8 @@ lab2.pdf
 # LaTeX source (report PDF is enough)
 report.tex
 
+# Submission zip
+*.zip
+
 # macOS
 .DS_Store
